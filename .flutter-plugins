@@ -1,0 +1,20 @@
+# This is a generated file; do not edit or check into version control.
+audio_session=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/audio_session-0.1.19/
+just_audio=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/just_audio-0.9.37/
+just_audio_web=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/just_audio_web-0.4.9/
+path_provider=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/path_provider-2.1.1/
+path_provider_android=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1/
+path_provider_foundation=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/
+path_provider_linux=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1/
+sqflite=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/sqflite-2.2.8+4/
+url_launcher=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/url_launcher-6.1.11/
+url_launcher_android=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/url_launcher_android-6.2.0/
+url_launcher_ios=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/url_launcher_ios-6.2.0/
+url_launcher_linux=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/url_launcher_linux-3.1.0/
+url_launcher_macos=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0/
+url_launcher_web=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.19/
+url_launcher_windows=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.0/
+webview_flutter=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/webview_flutter-4.4.2/
+webview_flutter_android=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/webview_flutter_android-3.12.1/
+webview_flutter_wkwebview=/Users/nguyenngoctam/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.9.4/
